@@ -14,4 +14,4 @@ This repository hosts all the code (Jupyter notebook) needed to run DiXtill. Add
 *Cantini, R., Orsino, A., & Talia, D. (2024). Xai-driven knowledge distillation of large language models for efficient deployment on low-resource devices. Journal of Big Data, 11(1), 63.*
 
 ## Acknowledgements
-This work has been partially supported by the ``FAIR – Future Artificial Intelligence Research" project - CUP H23C22000860006.
+This work has been partially supported by the *FAIR – Future Artificial Intelligence Research* project - CUP H23C22000860006.
