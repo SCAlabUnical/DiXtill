@@ -5,7 +5,7 @@ Our study introduces **DiXtill**, a novel approach to distilling explainable kno
 
 Our experiments, involving the distillation of a pre-trained BERT-like model into an attention-enhanced bi-LSTM student, reveal that **DiXtill** enables the effective transfer of teacher explanations to the student, enhancing faithfulness and interpretability while maintaining performance. Moreover, the use of cross-architecture distillation allows for delivering a significantly higher compression ratio and speedup compared to compression techniques such as post-training quantization and attention head pruning.
 
-These findings open avenues for more efficient and sustainable edge AI applications, empowering low-resource devices with the capabilities of Large Language Models without compromising performance and interoperability.
+These findings open avenues for more efficient and sustainable edge AI applications, empowering low-resource devices with the capabilities of Large Language Models without compromising performance and interpretability.
 
 ## How to run
 This repository hosts all the code (Jupyter notebook) needed to run **DiXtill**. Additionally, a sample dataset is provided for demonstration purposes.</br>
