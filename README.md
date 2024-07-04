@@ -8,9 +8,10 @@ Our experiments, involving the distillation of a pre-trained BERT-like model int
 These findings open avenues for more efficient and sustainable edge AI applications, empowering low-resource devices with the capabilities of Large Language Models without compromising performance and interoperability.
 
 ## How to run
-This repository hosts all the code (Jupyter notebook) needed to run **DiXtill**. Additionally, a sample dataset is provided for demonstration purposes.
->Before executing **DiXtill** download the *glove.6B.50d.txt* file from the official repository and extract it into the *data* folder.</br>
->You can use the following command: !wget http://nlp.stanford.edu/data/glove.6B.zip
+This repository hosts all the code (Jupyter notebook) needed to run **DiXtill**. Additionally, a sample dataset is provided for demonstration purposes.</br>
+Before executing **DiXtill** download the *glove.6B.50d.txt* file from the official repository and extract it into the *data* folder.</br>
+You can use the following command:
+>!wget http://nlp.stanford.edu/data/glove.6B.zip
 
 
 ## How to cite
