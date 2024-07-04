@@ -9,6 +9,10 @@ These findings open avenues for more efficient and sustainable edge AI applicati
 
 ## How to run
 This repository hosts all the code (Jupyter notebook) needed to run **DiXtill**. Additionally, a sample dataset is provided for demonstration purposes.
+'''
+*N.B.*: before executing **DiXtill** download the *glove.6B.50d.txt* file from the official repository and extract it into the *data* folder.
+You can use the following command: !wget http://nlp.stanford.edu/data/glove.6B.zip
+'''
 
 ## How to cite
 *Cantini, R., Orsino, A., & Talia, D. (2024). Xai-driven knowledge distillation of large language models for efficient deployment on low-resource devices. Journal of Big Data, 11(1), 63.*
